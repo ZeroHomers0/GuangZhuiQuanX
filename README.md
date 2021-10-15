@@ -10,10 +10,9 @@
 
    - 整合分流&复写
 
-   - [JQWS/ios_rule_script: 各平台的分流规则、复写规则及自动化脚本。 (github.com)](https://github.com/JQWS/ios_rule_script)NobyDa规则&JS
-
+   - [JQWS/ios_rule_script: 各平台的分流规则、复写规则及自动化脚本。 (github.com)](https://github.com/JQWS/ios_rule_script)
+   - NobyDa规则&JS
    - [JQWS/Script: This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge. (github.com)](https://github.com/JQWS/Script)
-
    - KOP-XIAO资源解析器
      - [JQWS/QuantumultX (github.com)](https://github.com/JQWS/QuantumultX)
    - DivineEngine规则分流及复写

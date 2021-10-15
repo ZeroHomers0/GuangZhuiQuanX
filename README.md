@@ -4,6 +4,9 @@
 
 ------
 
+**复制连接进入 quanX -> 点击右下角圆圈(进入后拉到最底端) -> 下载**
+··· URL
+https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/GuanZhuiQX.conf
 
 1. 以下为QuanX配置参数
 

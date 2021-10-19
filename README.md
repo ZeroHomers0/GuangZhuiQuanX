@@ -4,7 +4,7 @@
 
 ------
 
-**复制连接进入 quanX -> 点击右下角圆圈(进入后拉到最底端) -> 下载**
+## **复制连接进入 quanX -> 点击右下角圆圈(进入后拉到最底端) -> 下载**
 ``` url
 https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/GuanZhuiQX.conf
 ```
@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/GuanZhuiQX.conf
 https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/GuanZhuiQX.conf
 ```
 
-**！注意！**
+## **！注意！**
    - 自带了免费的代理，每15分钟更新一次，但是由于节点名称无法分类，只能在“特殊”策略组，请切换策略或者导入自己的节点订阅。
    - B站自动换区方法请参见代码注释,内含BoxJS订阅[哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js)。
    - tiktok解锁请勿同时启用多个，最新版tiktok未支持。
@@ -21,6 +21,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
    - 知乎去广告教程[知乎助手](https://github.com/JQWS/ios_rule_script/tree/master/script/zhihu)。
    - 最后只维护个人使用的配置，如有需求请自己动手。
 
+## **说明**
 1. 以下为QuanX配置参数
 
    - [Quantumult X 不完全教程 (notion.so)](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)

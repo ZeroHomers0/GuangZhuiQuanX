@@ -8,6 +8,18 @@
 ``` url
 https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/GuanZhuiQX.conf
 ```
+或者
+``` url
+https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/GuanZhuiQX.conf
+```
+
+**！注意！**
+   - 自带了免费的代理，每15分钟更新一次，但是由于节点名称无法分类，只能在“特殊”策略组，请切换策略或者导入自己的节点订阅。
+   - B站自动换区方法请参见代码注释,内含BoxJS订阅[哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js)。
+   - tiktok解锁请勿同时启用多个，最新版tiktok未支持。
+   - 京东比价的比价信息显示在商品下方，淘宝比价历史价格在“保障”中显示，需要点击“保障”才能看到，“保障”显示在商品下方，如未生效请清除缓存或重新安装试试。
+   - 知乎去广告教程[知乎助手](https://github.com/JQWS/ios_rule_script/tree/master/script/zhihu)。
+   - 最后只维护个人使用的配置，如有需求请自己动手。
 
 1. 以下为QuanX配置参数
 
@@ -17,7 +29,7 @@ https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/GuanZhuiQX.conf
 
    - [分享来自互联网上免费的shadowsocks(SS)/ShadowsocksR(SSR)/V2ray(vmess)代理 每15分钟更新一次，每次各分享4个临时可用代理。 及时订阅、及时更新。 (github.com)](https://github.com/JQWS/free_proxy_ss)
 
-3. 以下为分流&复写&JS备份大佬的仓库
+3. 以下为分流&复写&JS备份大佬的仓库，以防原仓库被封禁，但配置中仍使用原作者仓库
 
    - 整合分流&复写
       - [各平台的分流规则、复写规则及自动化脚本。 (github.com)](https://github.com/JQWS/ios_rule_script)

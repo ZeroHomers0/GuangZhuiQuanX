@@ -20,7 +20,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
    - 京东比价的比价信息显示在商品下方，淘宝比价历史价格在“保障”中显示，需要点击“保障”才能看到，“保障”显示在商品下方，如未生效请清除缓存或重新安装试试。
    - 知乎去广告教程[知乎助手](https://github.com/JQWS/ios_rule_script/tree/master/script/zhihu)。
    - 导入配置之后安装并信任证书，用于Https解析
-   - 最后只维护个人使用的配置，如有需求请自己动手。
+   - 最后，只维护个人使用的配置，如有需求请自己动手。
 
 ## **说明**
 1. 以下为QuanX配置参数

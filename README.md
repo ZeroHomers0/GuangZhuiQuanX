@@ -29,7 +29,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
 1. 以下为QuanX配置教程
 
    - [Quantumult X 不完全教程](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)
-   - 推介->[教程2](https://xtrojan.cc/client/quantumult-x.html)
+   - 推荐（因为比较简单，适合小白）->[教程2](https://xtrojan.cc/client/quantumult-x.html)
    - [BoxJS官方文档](https://chavyleung.gitbook.io/boxjs)
 
 2. 免费分享各种代理
@@ -60,4 +60,4 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
 5. 图标
 
    - [Quantumult X Policy Icon Set](https://github.com/JQWS/Qure)
-   - [Jmini icon](https://github.com/JQWS/mini)
+   - [mini icon](https://github.com/JQWS/mini)

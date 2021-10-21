@@ -13,9 +13,10 @@ https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/GuanZhuiQX.conf
 https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/GuanZhuiQX.conf
 ```
 
-## **！注意！**
+## **！注意（必看）！**
    - 自带了免费的代理，每15分钟更新一次，但是由于节点名称无法分类，只能在“特殊”策略组，请切换策略或者导入自己的节点订阅。
    - B站自动换区方法请参见代码注释,内含BoxJS订阅[哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js)。
+   - Hyseen大佬的Netflix 解锁检测和Neflix 策略切换需BoxJS订阅->[Helge_0x00 脚本合集](https://raw.githubusercontent.com/Hyseen/Scripts/master/QuantumultX/task.json)
    - tiktok解锁请勿同时启用多个，最新版tiktok未支持。
    - 京东比价的比价信息显示在商品下方，淘宝比价历史价格在“保障”中显示，需要点击“保障”才能看到，“保障”显示在商品下方，如未生效请清除缓存或重新安装试试。
    - 知乎去广告教程[知乎助手](https://github.com/JQWS/ios_rule_script/tree/master/script/zhihu)。

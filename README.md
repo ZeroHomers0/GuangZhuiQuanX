@@ -14,7 +14,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
 ```
 
 ## **！注意（必看）！**
-   - 自带了免费的代理，每15分钟更新一次，但是由于节点名称无法分类，只能在“特殊”策略组，请切换策略或者导入自己的节点订阅。
+   - 自带了免费的代理，每15分钟更新一次，使用前请开启资源解析器，但是由于节点名称无法分类，只能在“特殊”策略组，请切换策略或者导入自己的节点订阅。
    - B站自动换区方法请参见代码注释,内含BoxJS订阅[哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js)。
    - Hyseen大佬的Netflix 解锁检测和Neflix 策略切换需BoxJS订阅->[Helge_0x00 脚本合集](https://raw.githubusercontent.com/Hyseen/Scripts/master/QuantumultX/task.json)
    - tiktok解锁请勿同时启用多个，最新版tiktok未支持。
@@ -27,7 +27,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
 
 ## **说明**
 1. 以下为QuanX配置教程
-
+   - [Quantumult X 官方示例](https://github.com/crossutility/Quantumult-X)
    - [Quantumult X 不完全教程](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)
    - 推荐（因为比较简单，适合小白）->[教程2](https://xtrojan.cc/client/quantumult-x.html)
    - [BoxJS官方文档](https://chavyleung.gitbook.io/boxjs)
@@ -39,7 +39,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
 3. 以下为分流&复写&JS备份大佬的仓库，以防原仓库被封禁，但配置中仍使用原作者仓库
 
    - 整合分流&复写
-      - [各平台的分流规则、复写规则及自动化脚本。](https://github.com/JQWS/ios_rule_script)
+      - [各平台的分流规则、复写规则及自动化脚本](https://github.com/JQWS/ios_rule_script)
    - NobyDa规则&JS
       - [NobyDa](https://github.com/JQWS/Script)
    - KOP-XIAO资源解析器
@@ -55,7 +55,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
 
 4. 京东全自动退会
 
-   - [学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案](https://github.com/JQWS/JDMemberCloseAccount)
+   - [京东全自动退会](https://github.com/JQWS/JDMemberCloseAccount)
 
 5. 图标
 

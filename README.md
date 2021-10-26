@@ -47,12 +47,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
      - [QuantumultX资源解析器](https://github.com/JQWS/QuantumultX)
    - DivineEngine规则分流及复写
      -  [DivineEngine规则](https://github.com/JQWS/Profiles/tree/master)
-   - 少年
-     - [少年](https://github.com/JQWS/QuanX)
    - Orz-3
      - [Orz-3](https://github.com/JQWS/QuantumultX-1)
-   - Oreomeow
+   - 少年
      - [Oreomeow](https://github.com/JQWS/QuanX-1)
+     - [少年](https://github.com/JQWS/QuanX)
 
 4. 京东全自动退会
 

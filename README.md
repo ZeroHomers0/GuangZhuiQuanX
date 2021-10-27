@@ -15,8 +15,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
 
 ## **！注意（必看，你遇到的问题这里都可以解决）！**
    - 节点订阅----自带了免费的代理，每15分钟更新一次，使用前请开启资源解析器，记得长按订阅及时更新，但是由于节点名称无法分类，只能在“特殊”策略组，请切换策略或者导入自己的节点订阅。
-   - B站自动换区----方法请参见代码注释,内含BoxJS订阅[哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js)，如果使用我的配置则BoxJS配置如图![换区配置](https://github.com/JQWS/GuangZhuiQuanX/blob/main/img/bilibili.jpg)。
-   - Hyseen大佬的Netflix 解锁检测和Neflix 策略切换----需BoxJS订阅->[Helge_0x00 脚本合集](https://raw.githubusercontent.com/Hyseen/Scripts/master/QuantumultX/task.json)如果使用我的配置则BoxJS配置如图![Neflix配置](https://github.com/JQWS/GuangZhuiQuanX/blob/main/img/Neflix.jpg)。
+   - B站自动换区----方法请参见代码注释,内含BoxJS订阅[哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js)，如果使用我的配置则BoxJS配置如图[换区配置](https://github.com/JQWS/GuangZhuiQuanX/blob/main/img/bilibili.jpg)。
+   - Hyseen大佬的Netflix 解锁检测和Neflix 策略切换----需BoxJS订阅->[Helge_0x00 脚本合集](https://raw.githubusercontent.com/Hyseen/Scripts/master/QuantumultX/task.json)如果使用我的配置则BoxJS配置如图[Neflix配置](https://github.com/JQWS/GuangZhuiQuanX/blob/main/img/Neflix.jpg)。
    - tiktok解锁----请勿同时启用多个，最新版tiktok未支持。
    - 京东比价----比价信息显示在商品下方，淘宝比价历史价格在“保障”中显示，需要点击“保障”才能看到，“保障”显示在商品下方，如未生效请清除缓存或重新安装试试。
    - 知乎去广告----教程[知乎助手](https://github.com/JQWS/ios_rule_script/tree/master/script/zhihu)。

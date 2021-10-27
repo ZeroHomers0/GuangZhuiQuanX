@@ -21,8 +21,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
    - 京东比价的比价信息显示在商品下方，淘宝比价历史价格在“保障”中显示，需要点击“保障”才能看到，“保障”显示在商品下方，如未生效请清除缓存或重新安装试试。
    - 知乎去广告教程[知乎助手](https://github.com/JQWS/ios_rule_script/tree/master/script/zhihu)。
    - 导入配置之后安装并信任证书，用于Https解析。
-   - 解锁VIP只筛选出来了自己使用的且有效的，包含西窗烛、彩云天气、百度网盘、WPS、有道云、emby、spotify，如有需要请去这里看看->[zwf234](https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf)，[Quan Crack 脚本](https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/UnlockApp.conf)
-   - 请启用规则分流代理模式，方法见下教程2。
+   - 解锁VIP只筛选出来了自己使用的且有效的，包含西窗烛、彩云天气、百度网盘、WPS、有道云、emby、spotify，如有需要请去这里看看->[zwf234](https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf)，[Quan Crack 脚本](https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/UnlockApp.conf)。
+   - 请启用规则分流代理模式，方法见下小白教程。
+   - 广告拦截策略组起作用需选择REJECT.
    - 我的脚本用青龙挂在了服务器，所以这里就不提脚本订阅了。
    - 最后，只维护个人使用的配置，如有需求请自己动手。
 
@@ -30,8 +31,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
 1. 以下为QuanX配置教程
    - [Quantumult X 官方示例](https://github.com/crossutility/Quantumult-X)
    - [Quantumult X 不完全教程](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)
-   - 推荐（因为比较简单，适合小白）->[教程2](https://xtrojan.cc/client/quantumult-x.html)
+   - 推荐（因为比较简单，适合小白）->[小白教程](https://xtrojan.cc/client/quantumult-x.html)
    - [BoxJS官方文档](https://chavyleung.gitbook.io/boxjs)
+   - [毒奶配置示例](https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf)
+   - [KOP-XIAO配置示例](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)
+   - ↑以上两个配置均为大佬的懒人配置，里面也有一些参数说明，觉得合适可以试试。
 
 2. 免费分享各种代理
 

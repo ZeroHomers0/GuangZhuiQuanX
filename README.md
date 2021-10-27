@@ -4,7 +4,7 @@
 
 ------
 
-## **复制连接进入 quanX -> 点击右下角圆圈(进入后拉到最底端) -> 下载**
+## **复制链接进入 quanX -> 点击右下角圆圈(进入后拉到最底端) -> 下载**
 ``` url
 https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/GuanZhuiQX.conf
 ```

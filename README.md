@@ -21,10 +21,10 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
    - 京东比价----比价信息显示在商品下方，淘宝比价历史价格在“保障”中显示，需要点击“保障”才能看到，“保障”显示在商品下方，如未生效请清除缓存或重新安装试试。
    - 知乎去广告----教程[知乎助手](https://github.com/JQWS/ios_rule_script/tree/master/script/zhihu)。
    - 重写，MitM----导入配置之后安装并信任证书，用于Https解析，在设置中打开重写以及MitM，这一步很重要。
-   - 解锁VIP----只筛选出来了自己使用的且有效的，包含西窗烛、彩云天气、百度网盘、WPS、有道云、emby、spotify，如有需要请去这里看看，大部分都失效了，自己尝试->[zwf234](https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf)，[Quan Crack 脚本](https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/UnlockApp.conf)，并且保持在重写规则顺序考上的位置，这样才有用。
-   - 代理模式----请启用规则分流代理模式，方法见下小白教程，这一步也很重要，规则分流就是国内直连不走代理，国外走代理，并且按照设置的策略组走各自的代理，请点击软件右下角的功能按钮，然后在新窗口点击右上角三个点的标志，选择‘规则分流’，或者长按右下角功能按钮选择‘规则分流’。
-   - 广告拦截----策略组起作用需选择REJECT.
-   - 关于task脚本----我的脚本用青龙挂在了服务器，所以这里就不提脚本订阅了。
+   - 解锁VIP----只筛选出来了自己使用的且有效的，包含西窗烛、彩云天气、百度网盘、WPS、有道云、emby、spotify，如有需要请去这里看看，大部分都失效了，自己尝试->[zwf234](https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf)，[Quan Crack 脚本](https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/UnlockApp.conf)，并且将此规则保持在重写规则顺序靠上的位置，这样才有用。
+   - 代理模式----请启用规则分流代理模式，方法见下小白教程，这一步也很重要，规则分流就是国内请求直连不走代理，国外走代理，并且按照设置的策略组走各自的代理，这样quanX一直开着访问任何网站都互不影响。请单击软件右下角的功能按钮，然后在新窗口拉到最下面点击其他设置，在模式中选择‘规则分流’，或者长按右下角功能按钮选择‘规则分流’。
+   - 广告拦截----策略组起作用需选择REJECT，如果例如游戏中需要看广告获取奖励则广告拦截策略组选择direct。
+   - 关于task脚本----我的脚本用青龙挂在了服务器，所以这里就不提quanX的脚本订阅了，需要的朋友这里放一个教程[青龙教程合集](https://www.notion.so/1c598629675145988b43a37998a1604a)。
    - 最后----只维护个人使用的配置，如有需求请自己动手。
 
 ## **说明**
@@ -35,7 +35,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
    - [BoxJS官方文档](https://chavyleung.gitbook.io/boxjs)
    - [毒奶配置示例](https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf)
    - [KOP-XIAO配置示例](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)
-   - ↑以上两个配置均为大佬的懒人配置，里面也有一些参数说明，觉得合适可以试试。
+   - [少年歌行pro](https://ghproxy.com/https://raw.githubusercontent.com/sngxmini/QuanX/main/sngx2021.conf)
+   - ↑以上三个配置均为大佬的懒人配置，里面也有一些参数说明，觉得合适可以试试。
 
 2. 免费分享各种代理
 
@@ -48,14 +49,14 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
    - NobyDa规则&JS
       - [NobyDa](https://github.com/JQWS/Script)
    - KOP-XIAO资源解析器
-     - [QuantumultX资源解析器](https://github.com/JQWS/QuantumultX)
+      - [QuantumultX资源解析器](https://github.com/JQWS/QuantumultX)
    - DivineEngine规则分流及复写
-     -  [DivineEngine规则](https://github.com/JQWS/Profiles/tree/master)
+      - [DivineEngine规则](https://github.com/JQWS/Profiles/tree/master)
    - Orz-3
-     - [Orz-3](https://github.com/JQWS/QuantumultX-1)
+      - [Orz-3](https://github.com/JQWS/QuantumultX-1)
    - 少年
-     - [Oreomeow](https://github.com/JQWS/QuanX-1)
-     - [少年](https://github.com/JQWS/QuanX)
+      - [Oreomeow](https://github.com/JQWS/QuanX-1)
+      - [少年](https://github.com/JQWS/QuanX)
 
 4. 京东全自动退会
 

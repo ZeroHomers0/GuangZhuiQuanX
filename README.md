@@ -19,8 +19,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
    - Hyseen大佬的Netflix 解锁检测和Neflix 策略切换----需BoxJS订阅->[Helge_0x00 脚本合集](https://raw.githubusercontent.com/Hyseen/Scripts/master/QuantumultX/task.json) 如果使用我的配置则BoxJS配置如图[Neflix配置](https://github.com/JQWS/GuangZhuiQuanX/blob/main/img/Neflix.jpg)，具体教程参见毒奶的[BoxJS（With Quantumult X） - Disney+ 和Netflix 策略组批量解锁检测+一键切换节点](https://limbopro.com/archives/19265.html)。
    - tiktok解锁----请勿同时启用多个，最新版tiktok未支持，保持版本在v21.1.0及以下。
    - 京东比价----比价信息显示在商品下方，淘宝比价历史价格在“保障”中显示，需要点击“保障”才能看到，“保障”显示在商品下方，如未生效请清除缓存或重新安装试试。
-   - 知乎去广告----需要BoxJS订阅教程，[知乎助手](https://github.com/JQWS/ios_rule_script/tree/master/script/zhihu),保证知乎广告在分流的位置靠上，至少在国内网站和国内IP池的上方， 或者将规则复制出来放在本地分流'geoip, cn, direct'的上方才能保证有效。
-   - 重写，MitM----导入配置之后安装并信任证书，用于Https解析，在设置中打开重写以及MitM，这一步很重要，必须！ 。
+   - 知乎去广告----需要BoxJS订阅，教程->[知乎助手](https://github.com/JQWS/ios_rule_script/tree/master/script/zhihu)，保证知乎广告在分流的位置靠上，至少在国内网站和国内IP池的上方， 或者将规则复制出来放在本地分流'geoip, cn, direct'的上方才能保证有效。
+   - 重写，MitM----导入配置之后在quanX设置中开启重写和MitM，之后IOS设置中安装并信任证书，用于Https解析，这一步很重要，必须！ 。
    - 解锁VIP----这里只筛选出来了自己使用的且有效的，包含西窗烛、彩云天气、百度网盘、WPS、有道云、emby、spotify，如有需要请去这里看看，大部分都失效了，自己尝试->[zwf234](https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf)，[Quan Crack 脚本](https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/UnlockApp.conf)，并且将此规则保持在重写规则顺序靠上的位置，这样才有用。
    - 代理模式----请启用规则分流代理模式，方法见->[代理模式](https://xtrojan.cc/client/quantumult-x.html#guan_yu_dai_li_mo_shi)，这一步也很重要， 规则分流就是国内请求直连不走代理，国外走代理，并且按照设置的策略组走各自的代理，这样quanX可以一直开着访问任何网站都互不影响。 请单击软件右下角的功能按钮，然后在新窗口拉到最下面点击其他设置，在模式中选择‘规则分流’，或者长按右下角功能按钮选择‘规则分流’。
    - 广告拦截----该策略组起作用需选择REJECT，如果例如游戏中需要看广告获取奖励则广告拦截策略组选择direct。
@@ -43,7 +43,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
 2. 免费节点及机场推荐
 
    - [分享来自互联网上免费的shadowsocks(SS)/ShadowsocksR(SSR)/V2ray(vmess)代理 每15分钟更新一次，每次各分享4个临时可用代理。](https://github.com/JQWS/free_proxy_ss)
-   - [SS/SSR/V2Ray/Clash 简介和客户端软件下载]https://congcong0806.github.io/2018/04/20/SS/
+   - [SS/SSR/V2Ray/Clash 简介和客户端软件下载](https://congcong0806.github.io/2018/04/20/SS/)
 
 3. 以下为分流&复写&JS备份大佬的仓库，以防原仓库被封禁，但配置中除了某些删库的以外仍使用原作者仓库。
 

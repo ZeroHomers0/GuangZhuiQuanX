@@ -6,11 +6,11 @@
 
 ## **复制链接进入 quanX -> 点击右下角圆圈(进入后拉到最底端) -> 下载**
 ``` url
-https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/GzQuanx.conf
+https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/GzQuanX.conf
 ```
 或者
 ``` url
-https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/GzQuanx.conf
+https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/GzQuanX.conf
 ```
 
 ## **！注意（必看，你遇到的问题这里都可以解决）！**
@@ -24,6 +24,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
    - 解锁VIP----这里只筛选出来了自己使用的且有效的，包含西窗烛、彩云天气、百度网盘、WPS、有道云、emby、spotify，如有需要请去这里看看，大部分都失效了，自己尝试->[zwf234](https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf)，[Quan Crack 脚本](https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/UnlockApp.conf)，并且将此规则保持在重写规则顺序靠上的位置，这样才有用。
    - 代理模式----请启用规则分流代理模式，方法见->[代理模式](https://xtrojan.cc/client/quantumult-x.html#guan_yu_dai_li_mo_shi)，这一步也很重要， 规则分流就是国内请求直连不走代理，国外走代理，并且按照设置的策略组走各自的代理，这样quanX可以一直开着访问任何网站都互不影响。 请单击软件右下角的功能按钮，然后在新窗口拉到最下面点击其他设置，在模式中选择‘规则分流’，或者长按右下角功能按钮选择‘规则分流’。
    - 广告拦截----该策略组起作用需选择REJECT，如果例如游戏中需要看广告获取奖励则广告拦截策略组选择direct。
+   - 隐私拦截与运营劫持在去广告中已经包含，知乎去广告的重写和B站去广告重写在去广告AllInOne的重写中包含，这些规则请勿重复添加。
    - 关于task脚本----我的脚本用青龙挂在了服务器，所以这里就不提quanX的脚本订阅了，需要的朋友这里放一个教程[青龙教程合集](https://www.notion.so/1c598629675145988b43a37998a1604a)。
    - 最后----只维护个人使用的配置，如有需求请自己动手。
 

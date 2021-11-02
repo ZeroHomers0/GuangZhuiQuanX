@@ -1,0 +1,26 @@
+file:///var/lib/undecimus/apt/
+http://apt.dddjb.cn/  知网少年源
+http://apt.sngx.ml/   少年歌行私享源
+http://apt.thebigboss.org/repofiles/cydia/  BigBoss源
+http://getdelta.co/  Flex3 插件官方源
+http://julio.hackyouriphone.org/  Cydown官方源新地址
+http://rpetri.ch/repo/  插件基础依赖官方源
+https://apt.167025.cn/  A-lenglengyu 源 破解软件比较多
+https://apt.25mao.com/  老猫微信相关插件
+https://apt.bingner.com/ 越狱自带源
+https://apt.htv123.com/  电话助手作者源
+https://cokepokes.github.io/  应用降级插件App Store++ 官方源
+https://creaturecoding.com/repo/  shuffle 作者源
+https://cydia.akemi.ai/  AppSync作者源
+https://ib-soft.net/cydia/  清理插件iCleaner Pro 官方源
+https://lzsxcl.github.io/repo/  CC control 控制中心源
+https://opa334.github.io/  Safari Plus 作者源
+https://repo.chariz.io/  NewTerm2终端命令作者源
+https://repo.cydiabc.top/  Ai-小苹果源
+https://repo.initnil.com/  一些大陆软件破解
+https://repo.packix.com/  正版付费源
+https://sparkdev.me/  Snowboard 官方源 内还有大部分实用插件及依赖
+https://tigisoftware.com/cydia/  Filza官方源
+https://udevsharold.github.io/repo/  Bakgrunnur 真后台插件官方源
+http://repo.feng.com  威锋技术组精品源
+http://repo.co.kr  A-Bypass防越狱检测作者源

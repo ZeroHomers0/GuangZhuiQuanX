@@ -18,10 +18,10 @@ https://ghproxy.com/https://raw.githubusercontent.com/JQWS/GuangZhuiQuanX/main/G
    - B站自动换区----方法请参见代码注释,内含BoxJS订阅地址[哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js)，如果使用我的配置则BoxJS配置如图[换区配置](https://github.com/JQWS/GuangZhuiQuanX/blob/main/img/bilibili.jpg)。
    - Hyseen大佬的Netflix 解锁检测和Neflix 策略切换----需BoxJS订阅->[Helge_0x00 脚本合集](https://raw.githubusercontent.com/Hyseen/Scripts/master/QuantumultX/task.json) 如果使用我的配置则BoxJS配置如图[Neflix配置](https://github.com/JQWS/GuangZhuiQuanX/blob/main/img/Neflix.jpg)，具体教程参见毒奶的[BoxJS（With Quantumult X） - Disney+ 和Netflix 策略组批量解锁检测+一键切换节点](https://limbopro.com/archives/19265.html)。
    - tiktok解锁----请勿同时启用多个，最新版tiktok未支持，保持版本在v21.1.0及以下。
-   - 京东比价----比价信息显示在商品下方，淘宝比价历史价格在“保障”中显示，需要点击“保障”才能看到，“保障”显示在商品下方，如未生效请清除缓存或重新安装试试。
+   - 京东比价----比价信息显示在商品下方，淘宝比价历史价格在“保障”中显示，需要点击“保障”才能看到，“保障”显示在商品下方，如未生效请清除缓存或重新安装试试（不太准）。
    - 知乎去广告----需要BoxJS订阅，教程->[知乎助手](https://github.com/JQWS/ios_rule_script/tree/master/script/zhihu)，保证知乎广告在分流的位置靠上，至少在国内网站和国内IP池的上方， 或者将规则复制出来放在本地分流'geoip, cn, direct'的上方才能保证有效。
    - 重写，MitM----导入配置之后在quanX设置中开启重写和MitM，之后IOS设置中安装并信任证书，用于Https解析，这一步很重要，必须！ 。
-   - 解锁VIP----这里只筛选出来了自己使用的且有效的，包含西窗烛、彩云天气、百度网盘、WPS、有道云、emby、spotify、酷我音乐，如有需要请去这里看看，大部分都失效了，自己尝试->[zwf234](https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf)，[Quan Crack 脚本](https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/UnlockApp.conf)，并且将此规则保持在重写规则顺序靠上的位置，这样才有用。
+   - 解锁VIP----这里只筛选出来了自己使用的且有效的，包含西窗烛、彩云天气、WPS、有道云、emby、spotify、酷我音乐，如有需要请去这里看看，大部分都失效了，自己尝试->[zwf234](https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf)，[Quan Crack 脚本](https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/UnlockApp.conf)，并且将此规则保持在重写规则顺序靠上的位置，这样才有用。
    - 代理模式----请启用规则分流代理模式，方法见->[代理模式](https://xtrojan.cc/client/quantumult-x.html#guan_yu_dai_li_mo_shi)，这一步也很重要， 规则分流就是国内请求直连不走代理，国外走代理，并且按照设置的策略组走各自的代理，这样quanX可以一直开着访问任何网站都互不影响。 请单击软件右下角的功能按钮，然后在新窗口拉到最下面点击其他设置，在模式中选择‘规则分流’，或者长按右下角功能按钮选择‘规则分流’。
    - 广告拦截----该策略组起作用需选择REJECT，如果例如游戏中需要看广告获取奖励则广告拦截策略组选择direct。
    - 隐私拦截与运营劫持在去广告中已经包含，知乎去广告的重写和B站去广告重写在去广告AllInOne的重写中包含，这些规则请勿重复添加。

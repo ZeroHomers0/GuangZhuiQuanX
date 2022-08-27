@@ -1,4 +1,4 @@
-# GuangZhuiQuanX
+# GuangZhuiQuanX（由于换回安卓，所以不在更新！）
 
 自用QuanX规则，以及一些注释、使用说明
 
